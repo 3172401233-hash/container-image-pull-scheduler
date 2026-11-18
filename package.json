@@ -1,0 +1,10 @@
+{
+  "name": "container-image-pull-scheduler",
+  "version": "0.1.0",
+  "description": "容器镜像拉取调度库：层缓存、带宽预算、优先级与多节点分发",
+  "main": "src/scheduler.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
